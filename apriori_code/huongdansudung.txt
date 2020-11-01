@@ -1,0 +1,2 @@
+- Được viết bằng C# với framework WPF
+- Run chương trình -> Thêm các Items -> Thêm Tranlations -> Chọn Support, Confidence -> Ok
